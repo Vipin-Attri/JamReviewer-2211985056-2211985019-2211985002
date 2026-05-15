@@ -228,28 +228,6 @@ npm run dev
 
 ---
 
-# 🔑 Environment Variables
-
-## Frontend `.env`
-
-```env
-VITE_API_BASE_URL=http://localhost:5000/api
-```
-
-## Backend `.env`
-
-```env
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-CLIENT_URL=http://localhost:5173
-```
-
----
-
 # 👥 Role-Based Access
 
 ```text
